@@ -1,9 +1,9 @@
-import './app.css';
+
 import React from 'react'
-import Cardlist from ''
+import Cardlist from '../components/Cardlist'
 import Scroll from '../components/Scroll'
 import Searchbox from '../components/searchbox'
-import './app.css'
+import '../app.css'
 
 
   class App extends React.Component {
